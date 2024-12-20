@@ -49,6 +49,7 @@ o	Breed, age, and training suitability.
 4. Dashboard Development
 •	Set Up Dash App:
 o	Create the app layout with the following components:
+
  	Filtering options (dropdowns or buttons)
 
  	A data table for displaying filtered results.
