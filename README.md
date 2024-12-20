@@ -50,13 +50,17 @@ o	Breed, age, and training suitability.
 •	Set Up Dash App:
 o	Create the app layout with the following components:
  	Filtering options (dropdowns or buttons)
+
  	A data table for displaying filtered results.
+ 
  	Geolocation chart using plotly.
+ 
  	Secondary chart (e.g., pie chart).
+ 
 •	Configure Dash callbacks to update components dynamically based on user actions.
 •	Branding:
 o	Add Grazioso Salvare’s logo and your identifier to the app layout.
-5. Testing
+6. Testing
 •	Test the app locally to ensure:
 o	Filters work correctly.
 o	Charts and tables update dynamically.
