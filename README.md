@@ -1,5 +1,7 @@
 Project Documentation 
+
 Purpose
+
 This project is an interactive dashboard for Grazioso Salvare, designed to help identify and categorize dogs suitable for search-and-rescue training. The dashboard integrates MongoDB for data management and Dash for the web application interface.
 Functionality 
 •	Interactive Filtering
@@ -43,7 +45,8 @@ Completion Steps:
 o	Rescue type (Water, Mountain, Disaster).
 o	Breed, age, and training suitability.
 •	Test the queries in Python to ensure accuracy.
-3. Dashboard Development
+
+4. Dashboard Development
 •	Set Up Dash App:
 o	Create the app layout with the following components:
 	Filtering options (dropdowns or buttons)
@@ -53,7 +56,7 @@ o	Create the app layout with the following components:
 •	Configure Dash callbacks to update components dynamically based on user actions.
 •	Branding:
 o	Add Grazioso Salvare’s logo and your identifier to the app layout.
-4. Testing
+5. Testing
 •	Test the app locally to ensure:
 o	Filters work correctly.
 o	Charts and tables update dynamically.
@@ -71,4 +74,3 @@ The following problems were encountered and overcome in the initial development 
 3. Excessive Debug Output in Jupyter Notebook
 •	Challenge: Printing large data caused the notebook to exceed the IOPub data rate, leading to interruptions.
 •	Solution: Debug output was reduced to summaries (e.g., head() and info()) or written to external log files for analysis.
-![image](https://github.com/user-attachments/assets/67b2dd2a-4bf7-440f-bb48-78980360035a)
