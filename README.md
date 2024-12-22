@@ -13,8 +13,9 @@ Filters dogs by rescue type: Water Rescue, Mountain/Wilderness Rescue, Disaster/
  Displays filtered results in real-time.
  
 •	Charts:
-o	Geolocation Chart: Visualizes rescue data spatially.
-o	Secondary Chart: Displays Breed Distribution
+ o	Geolocation Chart: Visualizes rescue data spatially.
+ 
+ o	Secondary Chart: Displays Breed Distribution
 
 •	Branding
 Includes Grazioso Salvare’s logo and creator credit.
