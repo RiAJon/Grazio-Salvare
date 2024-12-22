@@ -1,5 +1,5 @@
-****Project Documentation**
-**
+**Project Documentation**
+
 
 **Purpose**
 
@@ -51,7 +51,7 @@ Dash, developed by Plotly, is a Python-based framework designed for building int
 
   [Dash/Plotly Documentation](https://dash.plotly.com/)
 
-****Project Recreation****
+**Project Recreation**
 
 **Completion Steps:**
 
