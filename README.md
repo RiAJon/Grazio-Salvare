@@ -1,6 +1,8 @@
-**Project Documentation**
+****Project Documentation**
+**
 
 **Purpose**
+
 This project is an interactive dashboard for Grazioso Salvare, designed to help identify and categorize dogs suitable for search-and-rescue training. The dashboard integrates MongoDB for data management and Dash for the web application interface.
 
 **Functionality**
@@ -49,7 +51,7 @@ Dash, developed by Plotly, is a Python-based framework designed for building int
 
   [Dash/Plotly Documentation](https://dash.plotly.com/)
 
-**Project Recreation**
+****Project Recreation****
 
 **Completion Steps:**
 
