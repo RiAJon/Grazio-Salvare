@@ -7,7 +7,7 @@ This project is an interactive dashboard for Grazioso Salvare, designed to help 
 **Functionality**
 
 - **Interactive Filtering**
-- 
+  
 Filters dogs by rescue type: Water Rescue, Mountain/Wilderness Rescue, Disaster/Tracking.
 
 - **Dynamic Data Table**
