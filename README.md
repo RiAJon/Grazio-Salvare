@@ -6,13 +6,17 @@
 This project is an interactive dashboard for Grazioso Salvare, designed to help identify and categorize dogs suitable for search-and-rescue training. The dashboard integrates MongoDB for data management and Dash for the web application interface.
 
 **Functionality**
+
 - **Interactive Filtering**
+  
 Filters dogs by rescue type: Water Rescue, Mountain/Wilderness Rescue, Disaster/Tracking.
 
 - **Dynamic Data Table**
+  
 Displays filtered results in real-time.
 
 - **Charts:**
+  
   - Geolocation Chart: Visualizes rescue data spatially.
   - Secondary Chart: Displays Breed Distribution
     
