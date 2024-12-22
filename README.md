@@ -11,16 +11,14 @@ This project is an interactive dashboard for Grazioso Salvare, designed to help 
   Filters dogs by rescue type: Water Rescue, Mountain/Wilderness Rescue, Disaster/Tracking.
 
 - **Dynamic Data Table**
-  
-Displays filtered results in real-time.
+  Displays filtered results in real-time.
 
 - **Charts:**
-  
   - Geolocation Chart: Visualizes rescue data spatially.
   - Secondary Chart: Displays Breed Distribution
     
 - **Branding**
-Includes Grazioso Salvare’s logo and creator credit.
+  Includes Grazioso Salvare’s logo and creator credit.
 
 **_Screen capture will be included here in GitHub. In the case of the Brightspace submission, the screen capture had to be included separately._**
 
