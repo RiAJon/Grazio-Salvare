@@ -11,7 +11,6 @@ Filters dogs by rescue type: Water Rescue, Mountain/Wilderness Rescue, Disaster/
 Displays filtered results in real-time.
 
 - **Charts:**
-  
   - Geolocation Chart: Visualizes rescue data spatially.
   - Secondary Chart: Displays Breed Distribution
     
@@ -23,23 +22,32 @@ Includes Grazioso Salvare’s logo and creator credit.
 **Tools Used**
 
 - **Python**
+  
 Python is an object-oriented programming language, used in this project to manipulate the database with more complex logic than MongoDB alone offers
+
 [Python Documentation](https://www.python.org/)
 
 - **MongoDB**
+  
 MongoDB is a NoSQL database designed to handle large datasets with flexible schema, ideal for the semi-structured nature of animal shelter data.
+
 [MongoDB Documentation](https://www.mongodb.com/docs/)
 
 - **PyMongo Library**
+  
 Provides a Pythonic interface to interact with MongoDB, allowing CRUD operations and aggregation queries.
+
 [PyMongo Documentation](https://pymongo.readthedocs.io/)
 
 - **Dash Framework**
+  
 Dash, developed by Plotly, is a Python-based framework designed for building interactive, data-driven web applications. It Integrates seamlessly with Python, enabling developers to use familiar libraries for data visualization and processing (e.g., pandas, Plotly, NumPy).
 
-- **Plotly and Pandas:**
-Enable advanced data visualization and efficient processing, essential for presenting the filtered data in an intuitive way.
-[Dash/Plotly Documentation](https://dash.plotly.com/)
+  - **Plotly and Pandas**
+  
+  Enable advanced data visualization and efficient processing, essential for presenting the filtered data in an intuitive way.
+
+  [Dash/Plotly Documentation](https://dash.plotly.com/)
 
 **Project Recreation**
 
@@ -66,7 +74,7 @@ Enable advanced data visualization and efficient processing, essential for prese
     - Geolocation chart using plotly.
     - Secondary chart (e.g., pie chart).
 - Configure Dash callbacks to update components dynamically based on user actions.
-- Branding**:**
+- Branding
   - Add Grazioso Salvare’s logo and your identifier to the app layout.
 
 **4\. Testing**
@@ -95,6 +103,3 @@ The following problems were encountered and overcome in the initial development 
 
 - **Challenge**: Printing large data caused the notebook to exceed the IOPub data rate, leading to interruptions.
 - **Solution**: Debug output was reduced to summaries (e.g., head() and info()) or written to external log files for analysis.
-
-**Contact**
-Riley Johnson
