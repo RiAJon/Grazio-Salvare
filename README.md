@@ -51,8 +51,11 @@ Dash, developed by Plotly, is a Python-based framework designed for building int
   Enable advanced data visualization and efficient processing, essential for presenting the filtered data in an intuitive way.
 
   [Dash/Plotly Documentation](https://dash.plotly.com/)
+  
+
 
 **Project Recreation**
+
 
 **Completion Steps:**
 
