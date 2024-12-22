@@ -14,9 +14,9 @@ Filters dogs by rescue type: Water Rescue, Mountain/Wilderness Rescue, Disaster/
  
 •	Charts:
 
-o	Geolocation Chart: Visualizes rescue data spatially.
+  o	Geolocation Chart: Visualizes rescue data spatially.
  
-o	Secondary Chart: Displays Breed Distribution
+  o	Secondary Chart: Displays Breed Distribution
 
 •	Branding
 Includes Grazioso Salvare’s logo and creator credit.
@@ -27,20 +27,17 @@ Tools Used
 
 •	Python
 Python is an object-oriented programming language, used in this project to manipulate the database with more complex logic than MongoDB alone offers
-Python Documentation
 
 •	MongoDB
 MongoDB is a NoSQL database designed to handle large datasets with flexible schema, ideal for the semi-structured nature of animal shelter data.
-MongoDB Documentation 
 
 •	PyMongo Library
 Provides a Pythonic interface to interact with MongoDB, allowing CRUD operations and aggregation queries.
-PyMongo Documentation 
 
 •	Dash Framework
 Dash, developed by Plotly, is a Python-based framework designed for building interactive, data-driven web applications. It Integrates seamlessly with Python, enabling developers to use familiar libraries for data visualization and processing (e.g., pandas, Plotly, NumPy).
 o	Plotly and Pandas: Enable advanced data visualization and efficient processing, essential for presenting the filtered data in an intuitive way.
-Dash/Plotly Documentation
+
  
 Project Recreation
 Completion Steps:
