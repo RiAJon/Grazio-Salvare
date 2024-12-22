@@ -1,38 +1,43 @@
-**Project Documentation 
-**
+Project Documentation 
+
 Purpose
 
 This project is an interactive dashboard for Grazioso Salvare, designed to help identify and categorize dogs suitable for search-and-rescue training. The dashboard integrates MongoDB for data management and Dash for the web application interface.
+
 Functionality 
+
 •	Interactive Filtering
 Filters dogs by rescue type: Water Rescue, Mountain/Wilderness Rescue, Disaster/Tracking.
+
 •	Dynamic Data Table
-Displays filtered results in real-time.
+ Displays filtered results in real-time.
+ 
 •	Charts:
 o	Geolocation Chart: Visualizes rescue data spatially.
 o	Secondary Chart: Displays Breed Distribution
+
 •	Branding
 Includes Grazioso Salvare’s logo and creator credit.
+
 Screen capture will be included here in GitHub. In the case of the Brightspace submission, the screen capture had to be included separately.
+
 Tools Used
+
 •	Python
 Python is an object-oriented programming language, used in this project to manipulate the database with more complex logic than MongoDB alone offers
 Python Documentation
-•	MongoDB
 
+•	MongoDB
 MongoDB is a NoSQL database designed to handle large datasets with flexible schema, ideal for the semi-structured nature of animal shelter data.
 MongoDB Documentation 
 
 •	PyMongo Library
-
 Provides a Pythonic interface to interact with MongoDB, allowing CRUD operations and aggregation queries.
-
 PyMongo Documentation 
 
 •	Dash Framework
 Dash, developed by Plotly, is a Python-based framework designed for building interactive, data-driven web applications. It Integrates seamlessly with Python, enabling developers to use familiar libraries for data visualization and processing (e.g., pandas, Plotly, NumPy).
 o	Plotly and Pandas: Enable advanced data visualization and efficient processing, essential for presenting the filtered data in an intuitive way.
-
 Dash/Plotly Documentation
  
 Project Recreation
