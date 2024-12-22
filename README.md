@@ -56,13 +56,13 @@ o	Breed, age, and training suitability.
 •	Set Up Dash App:
 o	Create the app layout with the following components:
 
- 	Filtering options (dropdowns or buttons)
+  	Filtering options (dropdowns or buttons)
 
- 	A data table for displaying filtered results.
+  	A data table for displaying filtered results.
  
- 	Geolocation chart using plotly.
+  	Geolocation chart using plotly.
  
- 	Secondary chart (e.g., pie chart).
+  	Secondary chart (e.g., pie chart).
  
 •	Configure Dash callbacks to update components dynamically based on user actions.
 •	Branding:
