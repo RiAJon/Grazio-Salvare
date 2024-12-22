@@ -13,9 +13,10 @@ Filters dogs by rescue type: Water Rescue, Mountain/Wilderness Rescue, Disaster/
  Displays filtered results in real-time.
  
 •	Charts:
- o	Geolocation Chart: Visualizes rescue data spatially.
+
+o	Geolocation Chart: Visualizes rescue data spatially.
  
- o	Secondary Chart: Displays Breed Distribution
+o	Secondary Chart: Displays Breed Distribution
 
 •	Branding
 Includes Grazioso Salvare’s logo and creator credit.
@@ -43,8 +44,10 @@ Dash/Plotly Documentation
  
 Project Recreation
 Completion Steps:
+
 1. Data Preparation
 •	Upload cleaned dataset to MongoDB.
+
 2. Backend Development
 •	Use PyMongo to connect the Dash app to the MongoDB database.
 •	Write queries to filter dogs by:
@@ -52,7 +55,7 @@ o	Rescue type (Water, Mountain, Disaster).
 o	Breed, age, and training suitability.
 •	Test the queries in Python to ensure accuracy.
 
-4. Dashboard Development
+3. Dashboard Development
 •	Set Up Dash App:
 o	Create the app layout with the following components:
 
@@ -67,7 +70,8 @@ o	Create the app layout with the following components:
 •	Configure Dash callbacks to update components dynamically based on user actions.
 •	Branding:
 o	Add Grazioso Salvare’s logo and your identifier to the app layout.
-6. Testing
+
+4. Testing
 •	Test the app locally to ensure:
 o	Filters work correctly.
 o	Charts and tables update dynamically.
