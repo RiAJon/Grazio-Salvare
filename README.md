@@ -28,21 +28,34 @@ The AAC database has 16 fields:
 
 ## How to Use the Module:
 1.	To use the module, simply download the PythonCRUD.py file and place it in the same directory as your project files. Once this is done, you will need to import the AnimalShelter class into your project.
+
 ![image](https://github.com/user-attachments/assets/7502b7f8-d5ca-4b03-b68e-293ce6a26eed)
-2.	From here, you will instantiate the AnimalShelter class. 
+
+2.	From here, you will instantiate the AnimalShelter class.
+   
 ![image](https://github.com/user-attachments/assets/d5ea4f6d-ce10-42ba-808e-71713a97b310)
-3.	Congrats, you can now use the .create(), .read(), .update(), and .delete() functions with your instance. 
+
+3.	Congrats, you can now use the .create(), .read(), .update(), and .delete() functions with your instance.
+   
 ![image](https://github.com/user-attachments/assets/1c84c4c8-c1e0-444e-ba8e-6e9b2b0e2a03)
  
 ### To create your own database instance, follow the steps below:
-1.	Use your system’s command prompt or terminal to import your database using the mongoimport command and your system’s environment variables. 
+1.	Use your system’s command prompt or terminal to import your database using the mongoimport command and your system’s environment variables.
+   
 ![image](https://github.com/user-attachments/assets/061a83a3-0532-44bb-8f78-942833117dd5)
-2.	Next, create a new user account in the mongo shell using the authenticationDatabase (in this example it is admin).
+
+3.	Next, create a new user account in the mongo shell using the authenticationDatabase (in this example it is admin).
+   
 ![image](https://github.com/user-attachments/assets/b998f2f7-8a3c-4c71-bbe5-1a349c130a74)
-4.	Now, authenticate the new account by entering the new user variables (username, password) before entering the Mongo shell. Run the connectionStatus command to ensure that the new user has the correct database privileges. 
+
+5.	Now, authenticate the new account by entering the new user variables (username, password) before entering the Mongo shell. Run the connectionStatus command to ensure that the new user has the correct database privileges.
+   
 ![image](https://github.com/user-attachments/assets/dfb0faf0-6539-4271-b546-95948882e61e)
-5.	Finally, you will need to change the environment variables in the AnimalShelter class to match those of your system:
+
+7.	Finally, you will need to change the environment variables in the AnimalShelter class to match those of your system:
+   
 ![image](https://github.com/user-attachments/assets/a01327b6-d73a-4f99-afcd-41743a243338)
+
 These variables will be used to initialize the database connection when you create an instance of Animal Shelter. 
 
 ### Installation
