@@ -1,13 +1,13 @@
-## About the Project
-This project is a portable Python module that enables CRUD functionality for MongoDB, using as an example, the Austin Animal Center (AAC) database. The project was fairly straight forward and not many challenges arose during its development. However, one major bump in the road occurred during the module’s testing. At first, the database connection was unsuccessful because the environment variables were not correct in the testing script. This was a reminder of the importance of these variables and the care that needs to be taken when using MongoClient.
+# Grazio Salvare Interface
+https://github.com/user-attachments/assets/3b5c75f5-bea0-45b0-8029-d2027b683a00
 
-## Motivation
-The purpose of the project is to create a tool which will help developers build a web application that connects a client-side interface to a database. This particular module was built to make it easier for users to utilize CRUD operations on the AAC database. The main class is therefore called AnimalShelter.
+## CRUD Module 
+This project uses a portable Python module that enables CRUD functionality for MongoDB, using as an example, the Austin Animal Center (AAC) database. The purpose of the module is to help developers build web applications that connect a client-side interface to a database. This particular module was built to make it easier for users to utilize CRUD operations on the AAC database. The main class is therefore called AnimalShelter.
 The module offers CREATE, READ, UPDATE, and DELETE functionality for MongoDB through a Python environment. These functions allow the user to manipulate documents in the AAC database by creating a new document, finding/reading an existing document, updating an existing document, and deleting an existing document. 
 
 # Getting Started
 
-### Database Schema Overview: 
+### Example Database Schema Overview: 
 The AAC database has 16 fields: 
 - rec_num (number) – this field is automatically created and incremented when a document is added, you do not need to include this field in your parameter data when creating a new document
 - age_upon_outcome (string)
