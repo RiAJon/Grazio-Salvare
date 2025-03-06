@@ -1,5 +1,7 @@
 # Grazio Salvare Interface
-https://github.com/user-attachments/assets/3b5c75f5-bea0-45b0-8029-d2027b683a00
+<video autoplay loop muted playsinline>
+  <source src="/usage" type="video/mp4">
+</video>
 
 ## CRUD Module 
 This project uses a portable Python module that enables CRUD functionality for MongoDB, using as an example, the Austin Animal Center (AAC) database. The purpose of the module is to help developers build web applications that connect a client-side interface to a database. This particular module was built to make it easier for users to utilize CRUD operations on the AAC database. The main class is therefore called AnimalShelter.
