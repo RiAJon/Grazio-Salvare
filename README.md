@@ -9,7 +9,7 @@ The module offers CREATE, READ, UPDATE, and DELETE functionality for MongoDB thr
 
 ## Database Schema Overview: 
 The AAC database has 16 fields: 
-•	rec_num (number) – this field is automatically created and incremented when a document is added, you do not need to include this field in your parameter data when creating a new document.
+- rec_num (number) – this field is automatically created and incremented when a document is added, you do not need to include this field in your parameter data when creating a new document.
 •	age_upon_outcome (string)
 •	animal_id (string)
 •	animal_type (string)
