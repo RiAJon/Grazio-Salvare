@@ -1,4 +1,4 @@
-* About the Project
+# About the Project
 This project is a portable Python module that enables CRUD functionality for MongoDB, using as an example, the Austin Animal Center (AAC) database. The project was fairly straight forward and not many challenges arose during its development. However, one major bump in the road occurred during the module’s testing. At first, the database connection was unsuccessful because the environment variables were not correct in the testing script. This was a reminder of the importance of these variables and the care that needs to be taken when using MongoClient.
 
 ## Motivation
