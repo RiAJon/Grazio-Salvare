@@ -47,9 +47,9 @@ These variables will be used to initialize the database connection when you crea
 
 ### Installation
 The tools needed to implement this module include a python IDE such as PyCharm, IDLE, VS Code, etc. 
--	Visual Studio Code can be downloaded for free [here](https://code.visualstudio.com/). 
+-	Visual Studio Code can be downloaded for free **[here](https://code.visualstudio.com/)**. 
 
 The python driver used in this project is PyMongo.
 -	PyMongo is a Python distribution containing tool for working with MongoDB and is the recommended way to work with MongoDB from Python. 
--	The PyMongo documentation can be found [here](https://www.mongodb.com/docs/languages/python/pymongo-driver/current/). 
+-	The PyMongo documentation can be found **[here](https://www.mongodb.com/docs/languages/python/pymongo-driver/current/)**. 
 
